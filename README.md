@@ -35,3 +35,26 @@ Lead Programmer — 6-person university project.
 - 4-month development cycle
 - Published on itch.io: https://arleqquino.itch.io/el-archivo-del-tiempo
 - Awarded Best Art
+
+## Technical Skills
+
+Languages:
+C#, TypeScript, JavaScript, Python, SQL
+
+Web:
+React, Next.js, Tailwind CSS
+
+Game Development:
+Unity, Godot
+
+Databases:
+PostgreSQL
+
+Tools:
+Git, GitHub
+
+## Languages
+
+- Russian — Native
+- Spanish — C1
+- English — C1
