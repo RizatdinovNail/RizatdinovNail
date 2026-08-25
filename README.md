@@ -1,16 +1,37 @@
-## Hi there 👋
+# Nail Rizatdinov
 
-<!--
-**RizatdinovNail/RizatdinovNail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer based in Spain.
 
-Here are some ideas to get you started:
+I build web applications and games using React, Next.js, TypeScript,
+C#, Unity and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Estrella Clima
+Full-stack e-commerce website developed independently for a real business.
+
+- Next.js / React / TypeScript
+- Tailwind CSS
+- Google APIs
+- Zustand
+- next-intl
+- Email integrations
+- Multilingual: Spanish, English and Russian
+- Designed and implemented the application independently
+- Production website: https://www.estrellaclima.com/
+
+> Source code is private due to business ownership restrictions.
+
+### El archivo del Tiempo
+Lead Programmer — 6-person university project.
+
+- Unity / C#
+- Dialogue system with typing animation
+- Inventory system
+- Rhythm minigame
+- Memory minigame
+- UI systems
+- Git
+- 4-month development cycle
+- Published on itch.io
+- Awarded Best Art
