@@ -33,5 +33,5 @@ Lead Programmer — 6-person university project.
 - UI systems
 - Git
 - 4-month development cycle
-- Published on itch.io
+- Published on itch.io: https://arleqquino.itch.io/el-archivo-del-tiempo
 - Awarded Best Art
