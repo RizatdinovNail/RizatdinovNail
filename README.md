@@ -21,7 +21,6 @@ Frontend application built with Next.js, React and TypeScript, designed to demon
 - Automated frontend testing
 - Deployed with Vercel
 - [Live Demo]: 
-- [Source Code] https://github.com/RizatdinovNail/Game-Event-Dashboard
 
 ### Estrella Clima
 Full-stack e-commerce website developed independently for a real business.
