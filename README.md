@@ -19,8 +19,7 @@ Frontend application built with Next.js, React and TypeScript, designed to demon
 - Accessibility-focused development
 - Loading, error and empty states
 - Automated frontend testing
-- Deployed with Vercel
-- [Live Demo]: [website](https://game-event-dashboard.vercel.app/)
+- Deployed with Vercel: [live demo](https://game-event-dashboard.vercel.app/)
 
 ### Estrella Clima
 Full-stack e-commerce website developed independently for a real business.
