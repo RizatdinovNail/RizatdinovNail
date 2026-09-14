@@ -18,8 +18,23 @@ Full-stack e-commerce website developed independently for a real business.
 - Multilingual: Spanish, English and Russian
 - Designed and implemented the application independently
 - Production website: https://www.estrellaclima.com/
-
 > Source code is private due to business ownership restrictions.
+
+### Featured Projects
+GoodreadsModern
+
+Full-stack redesign and performance-focused reimplementation of Goodreads.
+
+- React / TypeScript
+- Java / Spring Boot 3
+- Spring Security / JWT
+- PostgreSQL
+- REST API
+- Open Library API integration
+- Custom reading metrics
+- Relational shelf and book data management
+- Docker containerization
+- MIT License
 
 ## Technical Skills
 
