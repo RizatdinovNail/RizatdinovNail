@@ -2,7 +2,7 @@
 
 Junior Software Developer based in Spain.
 
-I build web applications and games using React, Next.js, TypeScript and Python.
+I build web applications and games using React, Next.js, TypeScript, Java.
 
 ## Featured Projects
 
@@ -38,7 +38,7 @@ Full-stack e-commerce website developed independently for a real business.
 ## Technical Skills
 
 Languages:
-C#, TypeScript, JavaScript, Python, SQL
+Java, TypeScript, JavaScript, SQL
 
 Web:
 React, Next.js, Tailwind CSS
