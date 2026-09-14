@@ -4,9 +4,9 @@ Junior Software Developer based in Spain.
 
 I build web applications and games using React, Next.js, TypeScript, Java.
 
-## Featured Projects
+## Professional Experience
 
-### Estrella Clima
+### Estrella Clima (2024 - 2026)
 Full-stack e-commerce website developed independently for a real business.
 
 - Next.js / React / TypeScript
