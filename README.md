@@ -6,20 +6,6 @@ I build web applications and games using React, Next.js, TypeScript, Java.
 
 ## Featured Projects
 
-### Game Event Dashboard
-Frontend application built with Next.js, React and TypeScript, designed to demonstrate modern frontend development practices.
-
-- Next.js / React / TypeScript
-- Tailwind CSS
-- Event browsing and filtering
-- Event details and dynamic routes
-- Player rankings and profiles
-- Responsive UI
-- Accessibility-focused development
-- Loading, error and empty states
-- Automated frontend testing
-- Deployed with Vercel: [live demo](https://game-event-dashboard.vercel.app/)
-
 ### Estrella Clima
 Full-stack e-commerce website developed independently for a real business.
 
